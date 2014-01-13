@@ -12,7 +12,7 @@ Replace the default Wordpress gallery with a responsive and touch friendly Media
 
 == Description ==
 
-Create beautiful responsive gallery slideshows within minutes
+Now you can create beautiful responsive gallery slideshows within minutes
 
 Leveraging the new built in gallery user interface in WordPress, you can now drag and drop images to create perfectly responsive gallery slideshows with ease
 
@@ -25,8 +25,11 @@ Here’s why responsive media gallery will make your life easier:
 
 How to use:
 1. Click “Add Media” in any page or post
+
 2. Select “Create Gallery”
+
 3. Choose your images
+
 4. “Create a new Gallery”
 
 Responsive media gallery will be the last slideshow plugin you’ll ever need!
@@ -44,8 +47,8 @@ Part of the [Marketer WordPress business theme](http://marketer.digitalsafari.co
 
 == Screenshots ==
 
-1. screenshot-1.png
-2. screenshot-2.png
+1. Responsive Media Gallery live
+2. How to add images to your gallery
 
 == Changelog ==
 
